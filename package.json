@@ -32,7 +32,7 @@
   "dependencies": {
     "bunyan": "^1.8.15",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "highlight.js": "^10.7.1",
     "jupiter-fs": "^0.0.11",
     "markdown-it": "^12.0.4",
