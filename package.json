@@ -37,7 +37,7 @@
     "jupiter-fs": "^0.0.11",
     "markdown-it": "^12.0.4",
     "node-git-server": "^0.6.1",
-    "simple-git": "^2.37.0",
+    "simple-git": "^3.16.0",
     "sticky-cluster": "^0.3.5",
     "tar": "^6.1.0"
   }
